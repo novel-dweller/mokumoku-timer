@@ -1,12 +1,22 @@
 body {
   background: #111;
   color: #fff;
-  font-family: sans-serif;
   text-align: center;
   margin-top: 20vh;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 48px;
 }
 
 #timer {
   font-size: 96px;
   font-weight: bold;
+  margin-top: 20px;
+}
+
+button, input {
+  font-size: 24px;
+  padding: 8px 16px;
 }
