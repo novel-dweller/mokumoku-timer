@@ -1,0 +1,12 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+#timer {
+  font-size: 96px;
+  font-weight: bold;
+}
